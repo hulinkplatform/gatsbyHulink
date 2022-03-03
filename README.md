@@ -1,8 +1,8 @@
-# ✨ green-potato ✨
+  # ✨ green-potato ✨
 
 <img src="https://themes.stackbit.com/images/libris-demo-1024x768.png" width="600">
 
-This is a [Gatsby](https://gatsbyjs.com) site using [Netlify CMS](https://www.netlifycms.org) as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
+This is a [Gatsby](https://gatsbyjs.com) site using [Netlify CMS](https://www.netlifycms.org ) as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
 
 You can [create a site](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-libris&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) just like this one, or explore some variations. How about a different:
 
