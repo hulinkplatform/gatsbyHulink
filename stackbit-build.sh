@@ -11,7 +11,7 @@ set -v
 
 #./inject-netlify-identity-widget.js public
 
-#echo "stackbit-build.sh: finished build"
+#echo "stackbit-build.sh: finished build " 
 
 
 gatsby build
