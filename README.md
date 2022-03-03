@@ -10,7 +10,7 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
         <summary>🎨 &nbsp;<strong>Look</strong></summary>
         <ul>
                 <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-planty&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">An e-commerce theme powered by Snipcart </a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-exto&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A portfolio theme with a blog</a></li>
+                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-exto&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A portfolio theme  with a blog</a></li>
                 <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-fresh&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A personal theme with a blog</a></li>
                 </ul>
 </details>
