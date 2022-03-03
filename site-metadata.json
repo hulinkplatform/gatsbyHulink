@@ -1,0 +1,257 @@
+{
+  "title": "Stackbit Libris Theme",
+  "palette": "blue",
+  "header": {
+    "type": "header",
+    "title": "LibrisTest",
+    "logo_img": "images/new/strsi_logo-white.svg",
+    "logo_img_alt": "Libris logo",
+    "has_nav": true,
+    "nav_links": [
+      {
+        "type": "action_menu",
+        "label": "Home",
+        "url": "/",
+        "style": "link",
+        "has_subnav": false
+      },
+      {
+        "type": "action_menu",
+        "label": "Programs",
+        "url": "#",
+        "style": "link",
+        "has_subnav": true,
+        "subnav_links": [
+          {
+            "type": "action",
+            "label": "Employment Services",
+            "url": "/employment",
+            "content": "online Appointments & reservations",
+            "style": "link",
+            "icon": "/images/serviceIcon-1.svg"
+          },
+          {
+            "type": "action",
+            "label": "Health & Human Services",
+            "url": "/health-Human",
+            "content": "online Appointments & reservations",
+            "style": "link",
+            "icon": "/images/serviceIcon-2.svg"
+          },
+          {
+            "type": "action",
+            "label": "Disability & Aging Services",
+            "content": "online Appointments & reservations",
+            "url": "/disability-aging-services",
+            "style": "link",
+            "icon": "/images/serviceIcon-3.svg"
+          }
+        ]
+      },
+      {
+        "type": "action_menu",
+        "label": "Products & Solutions",
+        "url": "#",
+        "style": "link",
+        "has_subnav": true,
+        "subnav_links": [
+          {
+            "type": "action",
+            "label": "Mandated Reporter",
+            "url": "/mandated-reporter",
+            "content": "online Appointments & reservations",
+            "style": "link",
+            "icon": "/images/mr-logo-icon.svg"
+          },
+          {
+            "type": "action",
+            "label": "Family Provider Portal",
+            "url": "/fpp",
+            "style": "link",
+            "content": "online Appointments & reservations",
+            "icon": "/images/pr-logo-icon.svg"
+            
+          },
+          {
+            "type": "action",
+            "label": "Patient Scheduling Solution",
+            "url": "/pss",
+            "style": "link",
+            "content": "online Appointments & reservations",
+            "icon": "/images/pss-logo-icon.svg"
+          }
+        ]
+      },
+      {
+        "type": "action_menu",
+        "label": "Client Stories",
+        "url": "/clientstories",
+        "style": "link",
+        "has_subnav": false
+      },
+      {
+        "type": "action_menu",
+        "label": "Innovation & Technology",
+        "url": "#",
+        "style": "link"
+      },
+      {
+        "type": "action_menu",
+        "label": "About Us",
+        "url": "/aboutus",
+        "style": "link",
+        "has_subnav": false
+      }
+    ]
+  },
+  "footer": {
+    "subscribe_title": "Subscribe",
+    "subscribe_content": "Stay up to date with our latest developments.",
+    "has_subscribe": true,
+    "social_title": "Community",
+    "social_links": [
+      {
+        "type": "action",
+        "label": "Twitter",
+        "style": "icon",
+        "icon_class": "twitter",
+        "url": "https://twitter.com/",
+        "new_window": true
+      },
+      {
+        "type": "action",
+        "label": "Instagram",
+        "style": "icon",
+        "icon_class": "instagram",
+        "url": "https://www.instagram.com/",
+        "new_window": true
+      },
+      {
+        "type": "action",
+        "label": "LinkedIn",
+        "style": "icon",
+        "icon_class": "linkedin",
+        "url": "https://www.linkedin.com/",
+        "new_window": true
+      }
+    ],
+    "tagline": "www.strsigs.com",
+    "logo_img": "images/strsi_government_solution_logo.svg",
+    "has_social": true,
+    "content": "&copy; strsi. All rights reserved.",
+    "links": [
+      {
+        "type": "action",
+        "label": "www.strsigs.com",
+        "style": "link",
+        "url": "https://www.strsigs.com",
+        "new_window": true
+      }
+    ],
+    "type": "footer",
+    "nav_title": "Company",
+    "nav_links": [
+      {
+        "groupHeading": "Products",
+        "links": [
+          {
+            "type": "action",
+            "label": "overview",
+            "url": "/overview"
+          },
+          {
+            "type": "action",
+            "label": "Blog",
+            "url": "/blog"
+          },
+          {
+            "type": "action",
+            "label": "Showcase",
+            "url": "/showcase"
+          },
+          {
+            "type": "action",
+            "label": "Contact",
+            "url": "/contact"
+          }
+        ]
+      },
+      {
+        "groupHeading": "Technology",
+        "links": [
+          {
+            "type": "action",
+            "label": "overview",
+            "url": "/overview"
+          },
+          {
+            "type": "action",
+            "label": "Blog",
+            "url": "/blog"
+          },
+          {
+            "type": "action",
+            "label": "Showcase",
+            "url": "/showcase"
+          },
+          {
+            "type": "action",
+            "label": "Contact",
+            "url": "/contact"
+          }
+        ]
+      },
+      {
+        "groupHeading": "Technology",
+        "links": [
+          {
+            "type": "action",
+            "label": "overview",
+            "url": "/overview"
+          },
+          {
+            "type": "action",
+            "label": "Blog",
+            "url": "/blog"
+          },
+          {
+            "type": "action",
+            "label": "Showcase",
+            "url": "/showcase"
+          },
+          {
+            "type": "action",
+            "label": "Contact",
+            "url": "/contact"
+          }
+        ]
+      },
+      {
+        "groupHeading": "Technology",
+        "links": [
+          {
+            "type": "action",
+            "label": "overview",
+            "url": "/overview"
+          },
+          {
+            "type": "action",
+            "label": "Blog",
+            "url": "/blog"
+          },
+          {
+            "type": "action",
+            "label": "Showcase",
+            "url": "/showcase"
+          },
+          {
+            "type": "action",
+            "label": "Contact",
+            "url": "/contact"
+          }
+        ]
+      }
+    ],
+    "has_nav": true
+  }
+}
